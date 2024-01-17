@@ -1,0 +1,4 @@
+```shell
+make
+python build
+```
